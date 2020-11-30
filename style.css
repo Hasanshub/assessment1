@@ -35,3 +35,11 @@
 .card:hover {
     transform: translateY(8px);
   }
+ 
+  .bg-dark {
+    background:transparent !important;
+    transition:0.75s ease;
+}
+.bg-dark.scrolled {
+    background:#000 !important;
+}
