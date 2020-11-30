@@ -31,10 +31,7 @@
     width: 100%;
     min-height: 100vh;
 }
-.card {
-    display: grid;
-    transform: translateY(8px);
-}
-.contact-details:hover {
+
+.card:hover {
     transform: translateY(8px);
   }
